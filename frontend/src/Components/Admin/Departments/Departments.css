@@ -1,0 +1,32 @@
+.addDepartmentSection {
+  width: 40%;
+  height: auto;
+  margin: 0 auto;
+  border: 1px solid blanchedalmond;
+  background-color: white;
+  z-index: 999;
+  position: fixed;
+  display: flex;
+  left: 22%;
+}
+
+.addDepartmentContainer {
+  width: 90%;
+  margin: 1rem auto;
+}
+
+.btn-addNewDepartment {
+  margin-left: auto;
+  margin-right: 1.5rem;
+  display: flex;
+}
+
+.addNewDepartmentTitle {
+  width: 100%;
+}
+
+.addNewDepartmentTitleIcon {
+  display: flex;
+  margin-left: auto;
+  cursor: pointer;
+}
